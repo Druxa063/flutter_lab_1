@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+## Задание
+ - Сделать макет , похожий на https://dribbble.com/shots/11048776-Survey-App
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
