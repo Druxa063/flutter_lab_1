@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import 'SecondPage.dart';
+
 class HomePage extends StatelessWidget {
   const HomePage({Key key}) : super(key: key);
 
@@ -211,8 +213,8 @@ class HomePage extends StatelessWidget {
                         ))
                   ]))),
           onPressed: () {
-            //todo push page two
-            print("page two");
+            Navigator.push(context,
+                MaterialPageRoute(builder: (context) => SecondPage()));
           },
           shape: new RoundedRectangleBorder(
               borderRadius: new BorderRadius.circular(10.0)),
