@@ -6,9 +6,9 @@ A new Flutter application.
  - Сделать макет , похожий на https://dribbble.com/shots/11048776-Survey-App
 ## Результат
 
-![Page 1](images/page_1.png "page 1")
+![Page 1](/images/page_1.png "page 1")
 
-![Page 2](images/page_2.png "page 2")
+![Page 2](/images/page_2.png "page 2")
 
 ## Getting Started
 
